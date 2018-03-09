@@ -37,4 +37,4 @@ dependencies {
     implementation project(':core')
 }
 
-apply from: 'https://raw.githubusercontent.com/afollestad/aidanfollestad.com/master/android-lib-release.gradle'
+apply from: 'https://raw.githubusercontent.com/cmengler/material-dialogs/0.9.6.0-inputfilters/android-lib-release.gradle'
